@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🐻 Crafting screencasts on my [Nord Coders](https://www.youtube.com/nordcoders) Youtube channel
+- 🐻 Creator of Nord Coders & crafting screencasts my [Youtube channel](https://www.youtube.com/nordcoders)
 - 🪐 Laravel enthusiast and [JustSteveKing's sponsor](https://github.com/JustSteveKing)
 - ⚙️ Practising and learning
 
