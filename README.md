@@ -4,6 +4,7 @@
 
 ##### NOW
 
+- 👑 Backend Archbishop of [Epekta](https://epekta.com)
 - 🐻 Creator of Nord Coders & crafting screencasts on my [Youtube channel](https://www.youtube.com/nordcoders)
 - 🪐 Laravel enthusiast and [JustSteveKing's sponsor](https://github.com/JustSteveKing)
 - ⚙️ Practicing and learning
