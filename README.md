@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Coming Soon**
+- 🏢 I'm currently working at **Epekta**
 - ⚙️ I use daily: `.php`, `.blade.php`, `.vue`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Web artisan
