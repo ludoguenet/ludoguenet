@@ -5,8 +5,8 @@
 ##### NOW
 
 - 👑 Backend Archbishop at [Epekta](https://epekta.com)
-- 🐻 Creator of Nord Coders & crafting screencasts on my [Youtube channel](https://www.youtube.com/nordcoders)
-- 🪐 Laravel enthusiast and [JustSteveKing's sponsor](https://github.com/JustSteveKing)
+- 🥷 Creator of Laravel Jutsu & crafting screencasts on my [Youtube channel](https://www.youtube.com/nordcoders)
+- 🪐 Laravel enthusiast
 - ⚙️ Practicing and learning
 
 ##### BIO
@@ -16,5 +16,5 @@
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Web artisan
 - 💬 Ping me about **laravel**, **php**, **best practises**, **web development**, **vueJS**
-- 🐦 Follow me: [twitter.com/NordCoders](https://twitter.com/NordCoders)
+- 🐦 Follow me: [twitter.com/LaravelJutsu](https://twitter.com/LaravelJutsu)
 - 🌊 Pro fact: Living under the sea
