@@ -1,5 +1,3 @@
-#### Laravel & Vue enthusiast — Creator of Laravel Jutsu.
-
 ##### WHOAMI
 
 - 🪐 Software Engineer at [Epekta](https://epekta.com)
