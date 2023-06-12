@@ -5,7 +5,7 @@
 - 🌌 **PHPStorm** is my lightsaber.
 
 <p>
-  <a href="https://twitter.com/laraveljutsu" target="_blank">
+  <a href="https://twitter.com/laraveljutsu">
     <img src="https://img.shields.io/twitter/follow/laraveljutsu?style=for-the-badge&logo=twitter" />
   </a>
 </p>
