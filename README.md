@@ -1,15 +1,13 @@
-# Hi, I'm Ludovic!
+# Hello, I'm Ludovic!
 
-### I'm a Software Engineer, specialising in web application development with Laravel and Vue.
+### Full-stack Developer with a Passion for Laravel & Vue
 
-I joined [Epekta](https://epekta.com) as a Full-stack Developer 🪐. My current role allows me to work remotely from home 🏠.
+I'm currently contributing to the [Epekta](https://epekta.com) team as a Full-stack Developer, working remotely. My journey started with a YouTube channel where I shared PHP knowledge, and it has since evolved into crafting robust web applications with Laravel and Vue.
 
-This journey began with the creation of my YouTube channel to modestly share my knowledge in PHP 🤏. Since then, I've actively shared my expertise and crafted incredible applications in PHP and JS using Laravel and Vue.
+> Interested in my work? Let's connect!
 
-> If you're interested in my work, feel free to follow me!
-
-Find me on <a rel="me" href="https://twitter.com/LaravelJutsu">Twitter</a>.
+Find me on [Twitter](https://twitter.com/LaravelJutsu).
 
 ## About Me
 
-I specialise in designing web products with Laravel and Vue. As the creator of the Laravel Jutsu project, my goal is to give the deserved momentum to these frameworks within the French tech community.
+I focus on building powerful web solutions using Laravel and Vue. As the creator of the Laravel Jutsu community, I aim to elevate these frameworks within the French tech community.
