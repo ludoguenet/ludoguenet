@@ -1,4 +1,4 @@
-# Ahoy, I be Ludovic! 🦜
+# Ahoy, I be Ludovic! 🐆
 ### Software Engineer | Laravel & Nuxt  
 
 Building web apps remotely at [Epekta](https://epekta.com).  
